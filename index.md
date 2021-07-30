@@ -1,7 +1,4 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
+
 #  <div align="center"> Stefan Samuel Martinez-Ruiz </div> 
 
 
